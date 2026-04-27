@@ -16,6 +16,7 @@ This project analyzes historical weather data from JFK Airport to predict the 'D
 
 ### Results:
 The model achieved a high accuracy score, showing a strong relationship between humidity, pressure, and temperature.
+
 ![Dashboard Screenshot](actual_vs_predicted.png)
 ![Dashboard Screenshot](correlation_heatmap.png)
 ![Dashboard Screenshot](temperature_trends.png)
